@@ -4,3 +4,5 @@ console.log('hola mundo')
 
 let a = 0
 let b = 10
+
+const multiply = (a,b) => a*b
