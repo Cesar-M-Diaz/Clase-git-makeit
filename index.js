@@ -5,6 +5,4 @@ console.log('hola mundo')
 let a = 0
 let b = 10
 
-function multiply(a,b) {
-	return a*b
-}
+const multiply = (a,b) => a*b
